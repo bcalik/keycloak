@@ -16,7 +16,7 @@
     "require": {
         "firebase/php-jwt": "^5.0",
         "php": "^8.0",
-        "socialiteproviders/manager": "^3.3",
+        "socialiteproviders/manager": "^4.0",
         "league/oauth2-client": "^2.4"
     },
     "autoload": {
